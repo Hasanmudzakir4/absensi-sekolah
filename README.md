@@ -40,9 +40,7 @@ Aplikasi Absensi Mahasiswa dan Dosen adalah solusi berbasis mobile yang dibangun
 
 ## 📷 Cuplikan Aplikasi
 
-> Tambahkan tangkapan layar atau animasi GIF dari tampilan aplikasi seperti:
-
-<img src="https://github.com/Hasanmudzakir4/img/blob/main/splash-screen.png" alt="Splash Screen" width="300"/>
+<img src="https://github.com/Hasanmudzakir4/img/blob/main/splash-screen.png" alt="Splash Screen" width="200"/>
 
 > - Halaman Login & Register
 > - Halaman Scan QR
