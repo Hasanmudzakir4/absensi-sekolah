@@ -86,6 +86,6 @@ flutter run
 
 Silakan unduh dan coba aplikasi melalui tautan berikut:
 
-👉 [App Absensi](https://appdistribution.firebase.dev/i/1223f8745732d035)
+👉 [App Absensi](https://appdistribution.firebase.dev/i/d89478dcee0c9538)
 
 © 2025 Aplikasi Absensi. Dibuat dengan ❤️ menggunakan Flutter dan Firebase.
