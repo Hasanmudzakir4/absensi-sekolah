@@ -40,10 +40,12 @@ Aplikasi Absensi Mahasiswa dan Dosen adalah solusi berbasis mobile yang dibangun
 
 ## 📷 Cuplikan Aplikasi
 
-<img src="https://github.com/Hasanmudzakir4/img/blob/main/splash-screen.png" alt="Splash Screen" width="200"/>
-<img src="https://github.com/Hasanmudzakir4/img/blob/main/welcome-screen1.png" alt="Welcome Screen" width="200"/>
-<img src="https://github.com/Hasanmudzakir4/img/blob/main/welcome-screen2.png" alt="Welcome Screen" width="200"/>
-<img src="https://github.com/Hasanmudzakir4/img/blob/main/welcome-screen3.png" alt="Welcome Screen" width="200"/>
+<p align="center">
+  <img src="https://github.com/Hasanmudzakir4/img/blob/main/splash-screen.png" alt="Splash Screen" width="200"/>
+  <img src="https://github.com/Hasanmudzakir4/img/blob/main/welcome-screen1.png" alt="Welcome Screen 1" width="200"/>
+  <img src="https://github.com/Hasanmudzakir4/img/blob/main/welcome-screen2.png" alt="Welcome Screen 2" width="200"/>
+  <img src="https://github.com/Hasanmudzakir4/img/blob/main/welcome-screen3.png" alt="Welcome Screen 3" width="200"/>
+</p>
 
 > - Halaman Login & Register
 > - Halaman Scan QR
