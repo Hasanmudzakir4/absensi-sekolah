@@ -47,6 +47,12 @@ Aplikasi Absensi Mahasiswa dan Dosen adalah solusi berbasis mobile yang dibangun
   <img src="/images/screenshots/welcome-screen3.png" alt="Welcome Screen 3" width="150"/>
   <img src="/images/screenshots/login.png" alt="Login" width="150"/>
   <img src="/images/screenshots/register.png" alt="Register" width="150"/>
+  <img src="/images/screenshots/home-lecturer.png" alt="Home Lecturer" width="150"/>
+  <img src="/images/screenshots/history-lecturer.png" alt="History" width="150"/>
+  <img src="/images/screenshots/barcode.png" alt="barcode" width="150"/>
+  <img src="/images/screenshots/schedule-lecturer.png" alt="Schedule" width="150"/>
+  <img src="/images/screenshots/profile-lecturer.png" alt="Profile" width="150"/>
+  <img src="/images/screenshots/update-profile-lecturer.png" alt="Update Profile" width="150"/>
 </p>
 
 ---
