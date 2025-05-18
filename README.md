@@ -1,4 +1,4 @@
-# 📚 Aplikasi Absensi Siswa dan Dosen
+# 📚 Aplikasi Absensi Siswa dan Guru
 
 Aplikasi Absensi Sekolah adalah solusi berbasis mobile yang dibangun menggunakan **Flutter** dan **Firebase**. Aplikasi ini memungkinkan siswa dan guru untuk melakukan proses absensi digital dengan mudah melalui pemindaian QR code, serta menyediakan fitur manajemen jadwal dan riwayat kehadiran secara real-time.
 
