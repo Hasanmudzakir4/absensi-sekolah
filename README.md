@@ -1,6 +1,6 @@
-# 📚 Aplikasi Absensi Mahasiswa dan Dosen
+# 📚 Aplikasi Absensi Siswa dan Dosen
 
-Aplikasi Absensi Mahasiswa dan Dosen adalah solusi berbasis mobile yang dibangun menggunakan **Flutter** dan **Firebase**. Aplikasi ini memungkinkan mahasiswa dan dosen untuk melakukan proses absensi digital dengan mudah melalui pemindaian QR code, serta menyediakan fitur manajemen jadwal dan riwayat kehadiran secara real-time.
+Aplikasi Absensi Sekolah adalah solusi berbasis mobile yang dibangun menggunakan **Flutter** dan **Firebase**. Aplikasi ini memungkinkan siswa dan guru untuk melakukan proses absensi digital dengan mudah melalui pemindaian QR code, serta menyediakan fitur manajemen jadwal dan riwayat kehadiran secara real-time.
 
 ---
 
@@ -8,21 +8,21 @@ Aplikasi Absensi Mahasiswa dan Dosen adalah solusi berbasis mobile yang dibangun
 
 ### 🔐 Autentikasi
 
-- Mahasiswa dan Dosen dapat melakukan **registrasi** dan **login** menggunakan Firebase Authentication.
+- Siswa dan Guru dapat melakukan **registrasi** dan **login** menggunakan Firebase Authentication.
 
 ### 👤 Manajemen Profil
 
-- Mahasiswa dan Dosen dapat **melengkapi** dan **mengubah** profil mereka (seperti nama lengkap, NIM/NIDN, kelas, jurusan, dll).
+- Siswa dan Guru dapat **melengkapi** dan **mengubah** profil mereka (seperti nama lengkap, NIS/NIP, kelas, jurusan, dll).
 
-### 👨‍🏫 Fitur untuk Dosen
+### 👨‍🏫 Fitur untuk Guru
 
 - **Kelola Jadwal Mengajar**: Tambah, ubah, dan hapus jadwal mengajar.
-- **Generate QR Code**: Tampilkan QR code absensi untuk mahasiswa berdasarkan jadwal aktif.
-- **Riwayat Kehadiran Mahasiswa**: Lihat semua kehadiran mahasiswa berdasarkan jadwal yang dibuat.
+- **Generate QR Code**: Tampilkan QR code absensi untuk siswa berdasarkan jadwal aktif.
+- **Riwayat Kehadiran Siswa**: Lihat semua kehadiran siswa berdasarkan jadwal yang dibuat.
 
-### 🧑‍🎓 Fitur untuk Mahasiswa
+### 🧑‍🎓 Fitur untuk Siswa
 
-- **Scan QR Code**: Mahasiswa dapat memindai barcode dari dosen untuk melakukan absensi.
+- **Scan QR Code**: Siswa dapat memindai barcode dari guru untuk melakukan absensi.
 - **Lihat Jadwal Hari Ini**: Tampilkan jadwal berdasarkan hari dan semester saat ini.
 - **Lihat Semua Jadwal**: Tampilkan semua jadwal aktif yang tersedia.
 - **Riwayat Kehadiran**: Lihat daftar absensi yang telah dilakukan.
